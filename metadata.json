@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Auditorías de Calidad",
+  "description": "Sistema avanzado para la gestión y análisis de auditorías de calidad con filtros reactivos y KPIs dinámicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
